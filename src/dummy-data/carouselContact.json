@@ -1,0 +1,31 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "src": "https://www.firstclasswatches.co.uk/blog/wp-content/uploads/2018/07/actor-adult-black-and-white-432059.jpg",
+      "alt": "first slide",
+      "caption": {
+        "title": "DTT Store",
+        "content": "Thời trang tạo nên thương hiệu"
+      }
+    },
+    {
+      "id": 2,
+      "src": "https://images.pexels.com/photos/6102365/pexels-photo-6102365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "alt": "second slide1",
+      "caption": {
+        "title": "Noel",
+        "content": "Sale sập sàn"
+      }
+    },
+    {
+      "id": 3,
+      "src": "https://images.pexels.com/photos/1135531/pexels-photo-1135531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "alt": "third slide",
+      "caption": {
+        "title": "DTT Store",
+        "content": "Phong cách trẻ trung, năng động"
+      }
+    }
+  ]
+}
